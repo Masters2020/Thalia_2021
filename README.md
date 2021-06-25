@@ -15,34 +15,22 @@ The separate YouTube transcript datasets from the current project and previous p
 #### 3. Keyword lists
   - Baseline
   - CoNLL-2003
-  - GMB
+  - GMB 
 
 
-#### 4. BERT_CoNLL-2003_current.
-This map is merely shared to verify the F1-scores reported in my thesis. They can be found in the out_ner folder as eval_results.txt.
+#### 5. BERT-NER_GMB
+Folder with ner_run.py file adjusted to the GMB dataset labels. 
 
 
-#### 5. BERT_GMB_current.
-This map is merely shared to verify the F1-scores reported in my thesis. They can be found in the out_ner folder as eval_results.txt.
-
-
-#### 6. BERT-NER_CoNLL2003
-Folder for training BERT on the CoNLL-2003 dataset yourself. 
-
-
-#### 7. BERT-NER_GMB
-Folder for training BERT on the GMB dataset yourself.
-
-
-#### 8. code.py
+#### 6. code.py
 Code the conspiracy classification task. 
 
 
-#### 9. code.py
+#### 7. code.py
 Code for training BERT on the CoNLL-2003 dataset yourself.
 
 
-#### 10. code.py
+#### 8. code.py
 Code for training BERT on the GMB dataset yourself. 
 
 
