@@ -2,7 +2,7 @@
 The following files can be found in this GitHub Repository. 
 
 #### 1. YouTube datasets
-The separate YouTube transcript datasets from the current project and previous projects. 'training_data_cleaned.pickle' and 'test_data_cleaned.pickle' can directly be used in this research.
+The separate YouTube transcript datasets from the current project and previous projects. 'training_data.pickle' and 'test_data.pickle' can directly be used in this research.
 
 
 #### 2. NER datasets
