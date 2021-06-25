@@ -27,7 +27,7 @@ Folder with ner_run.py file adjusted to the GMB dataset labels. Original ner_run
   - Code for cleaning the YouTube transcript data and extracting the keyword lists (extract_keywords.py)
   - Code the conspiracy classification task (svm_classification.py)
   - Code for training BERT on the CoNLL-2003 dataset yourself (bert_conll_2003.py)
-  - Code for training BERT on the GMB dataset yourself (bert_gmb.py
+  - Code for training BERT on the GMB dataset yourself (bert_gmb.py)
 
 
 
