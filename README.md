@@ -3,7 +3,7 @@ The following files can be found in this GitHub Repository.
 The code for training BERT is from https://github.com/kamalkraj/BERT-NER.
 
 #### 1. YouTube datasets
-The separate YouTube transcript datasets from the current project and previous projects. 'training_data.pickle' and 'test_data.pickle' can directly be used in this research.
+This folder contains the separate YouTube transcript datasets from the current project and previous projects. 'training_data.pickle' and 'test_data.pickle' are merged files that can directly be used in the svm_classification.py file.
 
 
 #### 2. NER datasets
